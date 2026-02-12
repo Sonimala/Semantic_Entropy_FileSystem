@@ -1,0 +1,5 @@
+{
+  "name": "SEFS - Semantic Entropy File System",
+  "description": "A self-organizing file manager that uses AI to dynamically categorize and cluster files into a semantic visual graph, simulating OS-level folder synchronization based on conceptual similarity.",
+  "requestFramePermissions": []
+}
